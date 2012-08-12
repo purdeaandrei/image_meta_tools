@@ -11,3 +11,5 @@ external/jpeg-8d
 *.mpo
 *.jps
 *.d
+*.o
+*.exe

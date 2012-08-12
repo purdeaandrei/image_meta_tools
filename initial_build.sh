@@ -21,7 +21,12 @@ echo "**********************************"
 echo "   Configuring the mxml library   "
 echo "**********************************"
 
-./configure
+case `uname` in
+    CYGWIN*)
+        ./configure CFLAGS="-DWIN32" ;;
+    *)
+        ./configure;;
+esac
 
 echo "*******************************"
 echo "   Building the mxml library   "
