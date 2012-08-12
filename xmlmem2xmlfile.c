@@ -1,3 +1,8 @@
+/* Copyright (c) 2012, Movidius Ltd.
+   Released under the BSD 3-clause license.
+   Author: Purdea Andrei <andrei -at- purdea.ro>
+                         <andrei.purdea -at- movidius.com> */
+
 /* this file contains stuff used to write an mxml memory structure into an xml file */
 
 #include <mxml.h>

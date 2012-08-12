@@ -1,3 +1,8 @@
+/* Copyright (c) 2012, Movidius Ltd.
+   Released under the BSD 3-clause license.
+   Author: Purdea Andrei <andrei -at- purdea.ro>
+                         <andrei.purdea -at- movidius.com> */
+
 /* This file contains stuff for reading MPO/JPEG/JPS files and turning them
    into an mxml memory structure */
 
