@@ -1,0 +1,13 @@
+a.out
+image2xml
+xml2image
+mpo2jps
+out*.xml*
+test.xml
+external/mxml
+external/jpeg-8d
+*~
+*.jpg
+*.mpo
+*.jps
+*.d
