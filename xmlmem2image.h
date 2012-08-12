@@ -3,7 +3,7 @@
    Author: Purdea Andrei <andrei -at- purdea.ro>
                          <andrei.purdea -at- movidius.com> */
 
-s#ifndef __MPOTOOLS_XMLMEM2IMAGE_H
+#ifndef __MPOTOOLS_XMLMEM2IMAGE_H
 #define __MPOTOOLS_XMLMEM2IMAGE_H
 
 #include <stdio.h>
